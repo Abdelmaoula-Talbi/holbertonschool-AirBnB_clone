@@ -5,7 +5,7 @@
 	border: 1px solid #DDDDDD;
 	border-radius: 4px;
 	display: flex;
-	justify-content: right;
+	align-items: center;
 }
 
 button {
@@ -17,8 +17,7 @@ button {
 	border-style: none;
 	border-radius: 4px;
 	margin-right: 30px;
-	margin-top: auto;
-	margin-bottom: auto;
+	margin-left: auto;
 }
 
 button:hover {
