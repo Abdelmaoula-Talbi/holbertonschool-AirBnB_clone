@@ -14,7 +14,7 @@ button {
 	color: #FFFFFF;
 	height: 48px;
 	width: 20%;
-	border: none;
+	border-style: none;
 	border-radius: 4px;
 	margin-right: 30px;
 	margin-top: auto;
