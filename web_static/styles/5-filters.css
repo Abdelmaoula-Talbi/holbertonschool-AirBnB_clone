@@ -38,11 +38,11 @@ button:hover {
 
 h3 {
 	font-weight: 600;
-	margin: 10px 20px 4px 30px;
+	margin: 10px auto auto 40px;
 }
 
 h4 {
 	font-weight: 400;
 	font-size: 14px;
-	margin: 4px 20px auto 30px;
+	margin: 4px auto auto 40px;
 }
